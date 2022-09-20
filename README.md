@@ -55,7 +55,7 @@ git clone https://github.com/ChrisTitusTech/titus-awesome ~/.config/awesome
 
 Debian-Based Installs
 ```
-git clone --branch debian https://github.com/ChrisTitusTech/titus-awesome ~/.config/awesome
+git clone --branch debian git clone --branch debian https://github.com/PrintHolamundo/awesome.git ~/.config/awesome ~/.config/awesome
 ```
 
 ### 3) Set the themes
